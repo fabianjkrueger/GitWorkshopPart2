@@ -2,3 +2,4 @@ Fabian Janosch Krueger
 Nice to meet you!
 It is actually a pleasure.
 If this is visible in github, I can edit from my desktop and commit to server.
+If this is visible on desktop, I can edit in github server and pull to local.
