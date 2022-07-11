@@ -423,11 +423,11 @@
 421	78704110	graffiti	Charlottenburg-Wilmersdorf	side street	1	first time	weathered graffiti	animals or plants	3	0
 422	57003415	painting	Mitte	public spot	1	beginner	stickers and tags	conceptual	1	0
 423	68106719	painting	Pankow	side street	1	beginner	weathered painting	political	4	0
-424	52544573	painting	Marzahn-Hellersdorf	public spot	2	beginner	nothing	conceptual	3	
-425	85824295	graffiti	Neukölln	park	2	beginner	stickers and tags	political	5	
-426	19446671	graffiti	Reinickendorf	playground	4	advanced	weathered painting	conceptual	4	
-427	20444035	painting	Marzahn-Hellersdorf	public spot	1	first time	stickers and tags	scenery	3	
-428	43114344	poster	Reinickendorf	side street	4	advanced	stickers and tags	people	5	
+424	52544573	painting	Marzahn-Hellersdorf	public spot	2	beginner	nothing	conceptual	3	1
+425	85824295	graffiti	Neukölln	park	2	beginner	stickers and tags	political	5	1
+426	19446671	graffiti	Reinickendorf	playground	4	advanced	weathered painting	conceptual	4	1
+427	20444035	painting	Marzahn-Hellersdorf	public spot	1	first time	stickers and tags	scenery	3	1
+428	43114344	poster	Reinickendorf	side street	4	advanced	stickers and tags	people	5	1
 429	15821570	painting	Treptow-Köpenick	main street	4	beginner	poster	conceptual	3	
 430	83232645	painting	Pankow	park	2	first time	weathered graffiti	political	3	
 431	30073377	painting	Lichtenberg	park	2	advanced	recent graffiti	animals or plants	5	
