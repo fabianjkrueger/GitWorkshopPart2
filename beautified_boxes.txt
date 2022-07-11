@@ -512,75 +512,75 @@
 510	64542431	poster	Tempelhof-Schöneberg	park	3	first time	nothing	scenery	2	1
 511	24944439	painting	Friedrichshain-Kreuzberg	main street	3	first time	stickers and tags	people	3	1
 512	56338534	graffiti	Pankow	park	4	first time	weathered painting	people		0
-513	81560405	painting	Lichtenberg	main street	2	beginner	nothing	scenery	4	
-514	55229005	poster	Charlottenburg-Wilmersdorf	side street	3	first time	recent painting	people	1	
-515	68910216	graffiti	Neukölln	main street	4	advanced	stickers and tags	people	2	
-516	22979769	graffiti	Mitte	side street	2	beginner	weathered graffiti	conceptual	3	
-517	69824009	graffiti	Treptow-Köpenick	main street	3	beginner	poster	conceptual	4	
-518	91854962	painting	Marzahn-Hellersdorf	side street	1	beginner	nothing	cartoon or comical	1	
-519	24992962	painting	Friedrichshain-Kreuzberg	main street	4	beginner	recent graffiti	scenery	3	
-520	28377287	painting	Spandau	main street	1	advanced	recent painting	animals or plants	5	
-521	27101745	painting	Mitte	side street	4	advanced	recent graffiti	conceptual	4	
-522	26694653	painting	Friedrichshain-Kreuzberg	side street	3	professional	weathered graffiti	scenery	4	
-523	41788320	painting	Mitte	main street	2	beginner	nothing	scenery	3	
-524	70481207	painting	Neukölln	public spot	4	beginner	poster	scenery		
-525	55818639	painting	Tempelhof-Schöneberg	park	4	first time	stickers and tags	animals or plants	4	
-526	33250681	painting	Mitte	park	1	first time	nothing	people	2	
-527	47164711	graffiti	Charlottenburg-Wilmersdorf	side street	1	beginner	weathered graffiti	political	3	
-528	25290390	stencil	Marzahn-Hellersdorf	side street	2	first time	weathered graffiti	cartoon or comical	1	
-529	13989334	painting	Mitte	side street	1	advanced	recent graffiti	scenery	1	
-530	74164072	painting	Spandau	side street	3	advanced	nothing	conceptual	4	
-531	74094176	poster	Mitte	side street	5	first time	poster	political	1	
-532	18066633	graffiti	Mitte	main street	4	advanced	stickers and tags	political	5	
-533	20552436	graffiti	Mitte	main street	1	beginner	weathered graffiti	conceptual	4	
-534	27599229	painting	Reinickendorf	park	2	beginner	weathered graffiti	scenery	2	
-535	78514114	painting	Marzahn-Hellersdorf	side street	3	beginner	weathered graffiti	conceptual	1	
-536	42731255	poster	Lichtenberg	side street	2	beginner	weathered graffiti	political		
-537	65218556	graffiti	Spandau	main street	3	beginner	nothing	people	5	
-538	11388883	painting	Lichtenberg	park	2	first time	weathered graffiti	scenery	4	
-539	99365039	painting	Pankow	main street	3	first time	nothing	cartoon or comical	3	
-540	27747661	graffiti	Neukölln	main street	2	advanced	weathered graffiti	cartoon or comical	4	
-541	62635563	poster	Steglitz-Zehlendorf	public spot	4	first time	poster	political	3	
-542	45881226	painting	Lichtenberg	side street	2	first time	weathered graffiti	scenery	3	
-543	47513286	painting	Pankow	main street	5	beginner	recent graffiti	conceptual	4	
-544	11752481	painting	Lichtenberg	main street	3	first time	stickers and tags	animals or plants	3	
-545	20522082	graffiti	Friedrichshain-Kreuzberg	side street	1	beginner	stickers and tags	cartoon or comical	4	
-546	79479032	graffiti	Neukölln	side street	3	first time	poster	conceptual		
-547	56094921	painting	Lichtenberg	park	2	advanced	weathered painting	conceptual	4	
-548	54458076	painting	Neukölln	main street	2	advanced	text	people	3	
-549	55644649	graffiti	Charlottenburg-Wilmersdorf	public spot	2	advanced	weathered graffiti	conceptual	5	
-550	33815717	graffiti	Lichtenberg	side street	2	advanced	weathered painting	animals or plants	1	
-551	66634417	painting	Reinickendorf	side street	2	first time	stickers and tags	scenery	4	
-552	39307136	painting	Tempelhof-Schöneberg	main street	3	first time	nothing	conceptual	3	
-553	87223702	painting	Friedrichshain-Kreuzberg	public spot	3	first time	weathered graffiti	animals or plants	3	
-554	92631361	graffiti	Friedrichshain-Kreuzberg	park	2	first time	weathered graffiti	conceptual	4	
-555	65332562	painting	Reinickendorf	main street	1	advanced	weathered graffiti	people	1	
-556	68517730	text	Lichtenberg	public spot	3	beginner	recent painting	cartoon or comical	4	
-557	45683238	painting	Marzahn-Hellersdorf	main street	3	advanced	recent graffiti	cartoon or comical	5	
-558	55858857	graffiti	Neukölln	public spot	2	beginner	nothing	conceptual	1	
-559	74240238	poster	Treptow-Köpenick	main street	1	first time	stickers and tags	political	3	
-560	33346423	painting	Friedrichshain-Kreuzberg	main street	4	first time	weathered graffiti	conceptual	3	
-561	23129443	painting	Marzahn-Hellersdorf	main street	3	advanced	poster	cartoon or comical	3	
-562	85385600	painting	Neukölln	main street	4	advanced	poster	cartoon or comical		
-563	29562071	painting	Tempelhof-Schöneberg	main street	1	first time	poster	animals or plants	3	
-564	27689227	graffiti	Steglitz-Zehlendorf	side street	4	beginner	poster	animals or plants	2	
-565	22940126	poster	Charlottenburg-Wilmersdorf	main street	3	advanced	weathered graffiti	animals or plants	2	
-566	79262620	graffiti	Lichtenberg	park	1	first time	nothing	scenery	3	
-567	70063040	graffiti	Reinickendorf	main street	4	first time	stickers and tags	political	3	
-568	37742070	poster	Charlottenburg-Wilmersdorf	side street	5	first time	nothing	conceptual	1	
-569	74098694	painting	Reinickendorf	main street	2	advanced	text	political	4	
-570	24025974	poster	Treptow-Köpenick	playground	3	beginner	poster	political	4	
-571	58952775	painting	Mitte	main street	5	beginner	stickers and tags	scenery	1	
-572	36612523	painting	Spandau	park	1	advanced	stickers and tags	scenery	3	
-573	36111604	painting	Friedrichshain-Kreuzberg	public spot	3	beginner	weathered graffiti	political	5	
-574	62626068	graffiti	Neukölln	main street	2	advanced	nothing	animals or plants	5	
-575	90607213	painting	Treptow-Köpenick	playground	4	first time	stickers and tags	political	2	
-576	71338307	painting	Steglitz-Zehlendorf	park	2	first time	nothing	political	4	
-577	62976773	stencil	Spandau	main street	3	advanced	weathered graffiti	conceptual	5	
-578	21811114	painting	Tempelhof-Schöneberg	playground	4	first time	recent graffiti	cartoon or comical	3	
-579	70274245	painting	Charlottenburg-Wilmersdorf	main street	1	beginner	weathered graffiti	people	4	
-580	55538387	graffiti	Friedrichshain-Kreuzberg	main street	2	first time	recent graffiti	animals or plants		
-581	38239392	graffiti	Neukölln	side street	3	beginner	stickers and tags	people	4	
+513	81560405	painting	Lichtenberg	main street	2	beginner	nothing	scenery	4	1
+514	55229005	poster	Charlottenburg-Wilmersdorf	side street	3	first time	recent painting	people	1	0
+515	68910216	graffiti	Neukölln	main street	4	advanced	stickers and tags	people	2	1
+516	22979769	graffiti	Mitte	side street	2	beginner	weathered graffiti	conceptual	3	1
+517	69824009	graffiti	Treptow-Köpenick	main street	3	beginner	poster	conceptual	4	1
+518	91854962	painting	Marzahn-Hellersdorf	side street	1	beginner	nothing	cartoon or comical	1	0
+519	24992962	painting	Friedrichshain-Kreuzberg	main street	4	beginner	recent graffiti	scenery	3	0
+520	28377287	painting	Spandau	main street	1	advanced	recent painting	animals or plants	5	0
+521	27101745	painting	Mitte	side street	4	advanced	recent graffiti	conceptual	4	1
+522	26694653	painting	Friedrichshain-Kreuzberg	side street	3	professional	weathered graffiti	scenery	4	1
+523	41788320	painting	Mitte	main street	2	beginner	nothing	scenery	3	1
+524	70481207	painting	Neukölln	public spot	4	beginner	poster	scenery		1
+525	55818639	painting	Tempelhof-Schöneberg	park	4	first time	stickers and tags	animals or plants	4	1
+526	33250681	painting	Mitte	park	1	first time	nothing	people	2	1
+527	47164711	graffiti	Charlottenburg-Wilmersdorf	side street	1	beginner	weathered graffiti	political	3	0
+528	25290390	stencil	Marzahn-Hellersdorf	side street	2	first time	weathered graffiti	cartoon or comical	1	0
+529	13989334	painting	Mitte	side street	1	advanced	recent graffiti	scenery	1	0
+530	74164072	painting	Spandau	side street	3	advanced	nothing	conceptual	4	1
+531	74094176	poster	Mitte	side street	5	first time	poster	political	1	0
+532	18066633	graffiti	Mitte	main street	4	advanced	stickers and tags	political	5	1
+533	20552436	graffiti	Mitte	main street	1	beginner	weathered graffiti	conceptual	4	1
+534	27599229	painting	Reinickendorf	park	2	beginner	weathered graffiti	scenery	2	0
+535	78514114	painting	Marzahn-Hellersdorf	side street	3	beginner	weathered graffiti	conceptual	1	0
+536	42731255	poster	Lichtenberg	side street	2	beginner	weathered graffiti	political		0
+537	65218556	graffiti	Spandau	main street	3	beginner	nothing	people	5	1
+538	11388883	painting	Lichtenberg	park	2	first time	weathered graffiti	scenery	4	1
+539	99365039	painting	Pankow	main street	3	first time	nothing	cartoon or comical	3	1
+540	27747661	graffiti	Neukölln	main street	2	advanced	weathered graffiti	cartoon or comical	4	1
+541	62635563	poster	Steglitz-Zehlendorf	public spot	4	first time	poster	political	3	0
+542	45881226	painting	Lichtenberg	side street	2	first time	weathered graffiti	scenery	3	1
+543	47513286	painting	Pankow	main street	5	beginner	recent graffiti	conceptual	4	0
+544	11752481	painting	Lichtenberg	main street	3	first time	stickers and tags	animals or plants	3	1
+545	20522082	graffiti	Friedrichshain-Kreuzberg	side street	1	beginner	stickers and tags	cartoon or comical	4	1
+546	79479032	graffiti	Neukölln	side street	3	first time	poster	conceptual		1
+547	56094921	painting	Lichtenberg	park	2	advanced	weathered painting	conceptual	4	1
+548	54458076	painting	Neukölln	main street	2	advanced	text	people	3	1
+549	55644649	graffiti	Charlottenburg-Wilmersdorf	public spot	2	advanced	weathered graffiti	conceptual	5	1
+550	33815717	graffiti	Lichtenberg	side street	2	advanced	weathered painting	animals or plants	1	0
+551	66634417	painting	Reinickendorf	side street	2	first time	stickers and tags	scenery	4	1
+552	39307136	painting	Tempelhof-Schöneberg	main street	3	first time	nothing	conceptual	3	1
+553	87223702	painting	Friedrichshain-Kreuzberg	public spot	3	first time	weathered graffiti	animals or plants	3	1
+554	92631361	graffiti	Friedrichshain-Kreuzberg	park	2	first time	weathered graffiti	conceptual	4	1
+555	65332562	painting	Reinickendorf	main street	1	advanced	weathered graffiti	people	1	0
+556	68517730	text	Lichtenberg	public spot	3	beginner	recent painting	cartoon or comical	4	0
+557	45683238	painting	Marzahn-Hellersdorf	main street	3	advanced	recent graffiti	cartoon or comical	5	1
+558	55858857	graffiti	Neukölln	public spot	2	beginner	nothing	conceptual	1	0
+559	74240238	poster	Treptow-Köpenick	main street	1	first time	stickers and tags	political	3	0
+560	33346423	painting	Friedrichshain-Kreuzberg	main street	4	first time	weathered graffiti	conceptual	3	1
+561	23129443	painting	Marzahn-Hellersdorf	main street	3	advanced	poster	cartoon or comical	3	1
+562	85385600	painting	Neukölln	main street	4	advanced	poster	cartoon or comical		1
+563	29562071	painting	Tempelhof-Schöneberg	main street	1	first time	poster	animals or plants	3	1
+564	27689227	graffiti	Steglitz-Zehlendorf	side street	4	beginner	poster	animals or plants	2	1
+565	22940126	poster	Charlottenburg-Wilmersdorf	main street	3	advanced	weathered graffiti	animals or plants	2	1
+566	79262620	graffiti	Lichtenberg	park	1	first time	nothing	scenery	3	1
+567	70063040	graffiti	Reinickendorf	main street	4	first time	stickers and tags	political	3	0
+568	37742070	poster	Charlottenburg-Wilmersdorf	side street	5	first time	nothing	conceptual	1	0
+569	74098694	painting	Reinickendorf	main street	2	advanced	text	political	4	0
+570	24025974	poster	Treptow-Köpenick	playground	3	beginner	poster	political	4	0
+571	58952775	painting	Mitte	main street	5	beginner	stickers and tags	scenery	1	0
+572	36612523	painting	Spandau	park	1	advanced	stickers and tags	scenery	3	1
+573	36111604	painting	Friedrichshain-Kreuzberg	public spot	3	beginner	weathered graffiti	political	5	1
+574	62626068	graffiti	Neukölln	main street	2	advanced	nothing	animals or plants	5	1
+575	90607213	painting	Treptow-Köpenick	playground	4	first time	stickers and tags	political	2	0
+576	71338307	painting	Steglitz-Zehlendorf	park	2	first time	nothing	political	4	0
+577	62976773	stencil	Spandau	main street	3	advanced	weathered graffiti	conceptual	5	1
+578	21811114	painting	Tempelhof-Schöneberg	playground	4	first time	recent graffiti	cartoon or comical	3	1
+579	70274245	painting	Charlottenburg-Wilmersdorf	main street	1	beginner	weathered graffiti	people	4	1
+580	55538387	graffiti	Friedrichshain-Kreuzberg	main street	2	first time	recent graffiti	animals or plants		0
+581	38239392	graffiti	Neukölln	side street	3	beginner	stickers and tags	people	4	1
 582	81727093	painting	Pankow	main street	3	first time	weathered graffiti	political	2	
 583	90744628	graffiti	Steglitz-Zehlendorf	side street	1	beginner	stickers and tags	people	1	
 584	61121976	graffiti	Pankow	main street	3	advanced	poster	political	4	
